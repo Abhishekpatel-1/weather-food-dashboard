@@ -1,7 +1,11 @@
 🌦️ Weather vs Food Orders
+
 The Data Weaver
+
 📌 Project Overview
+
 The Data Weaver.
+
 The goal is to combine two unrelated datasets—weather data and online food order data—and visualize them together to uncover meaningful insights.
 
 The dashboard demonstrates how external factors like temperature and rainfall can influence online food ordering behavior.
@@ -113,4 +117,5 @@ https://builder.aws.com/content/36ocZgFAr86VWxVRlvOiuPP2uCD/the-data-weaver-conn
 🏁 Conclusion
 
 This project highlights the power of AI-assisted development using Kiro to weave together unrelated datasets and generate meaningful insights through data visualization.
+
 
